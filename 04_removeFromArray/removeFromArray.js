@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const removeFromArray = function(arr, ...theArgs) {
     for (const arg of theArgs) {
         for (let i = 0; i <= arr.length - 1; i++) {
@@ -7,6 +8,9 @@ const removeFromArray = function(arr, ...theArgs) {
         };
     };
     return arr;
+=======
+const removeFromArray = function() {
+>>>>>>> upstream/main
 };
 
 // Do not edit below this line
